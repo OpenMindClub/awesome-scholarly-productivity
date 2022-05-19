@@ -98,7 +98,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Contributors
 
-Thanks to all the people who contribute:
+Thanks to all the people who contribute:[阳志平](yangzhiping.com/)、[钰博](muguangling.com)、朱小叶
 
 ## License
 
