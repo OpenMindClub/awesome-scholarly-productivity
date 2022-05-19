@@ -81,7 +81,8 @@
 #### Impact Factor Query Website
 - [Scimago Journal & Country Rank](https://www.scimagojr.com/index.php)  
 - [SCI journal influence factor query_2022](https://sci.justscience.cn/) 
-- [Submission Skills Exchange Website](#Submission Skills Exchange Website)
+
+#### Submission Skills Exchange Website
 
 ### Thesis Download Source
 - Sci_Hub:[https://sci-hub.org.cn/](https://sci-hub.org.cn/)
