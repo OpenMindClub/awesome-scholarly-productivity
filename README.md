@@ -96,6 +96,7 @@
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
+For chinese edition,click [here](#README.zh-cn.md)
 
 ## Contributors
 
