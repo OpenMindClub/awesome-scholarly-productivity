@@ -22,6 +22,7 @@
     - [论文发表技巧](#论文发表技巧)
         - [参考图书](#参考图书)
         - [影响因子查询网站参考](#影响因子查询网站参考)
+        - [投稿技巧交流网站参考](#投稿技巧交流网站参考)
     - [论文下载资源](#论文下载资源)
     - [写作工具](#写作工具)
     - [文献管理工具](#文献管理工具)
@@ -102,12 +103,14 @@
 ### 投稿技巧交流网站参考
 - [发表记](https://www.fabiaoji.com/) 
 - [小木虫论坛﹣学术科研互动平台](http://muchong.com/bbs/)
+- [查尔斯沃斯学术资源库-研究人员咨询中心](https://www.cwauthors.com.cn/researcher_education)  该网站提供专业论文润色服务，同时有16个论文发表相关的文章专栏、系列免费讲座等资源；
 
 ##  论文下载资源
 - [Sci-hub](https://sci-hub.org.cn/)
 
 ## 写作工具
 - Zettlr：[ZETTLR: A MARKDOWN EDITOR FOR THE 21ST CENTURY](https://www.zettlr.com/) 21世纪MD写作工具，省心省钱好用开源，与Zotero完美配合。美中不足的是Zotero中文献数量过多，比如超过5k，在MD引用citation key 时Zettlr很容易罢工卡死，但通常关闭然后重新进入下Zettlr就又正常了。
+- 
 
 
 ## 文献管理工具
@@ -120,7 +123,7 @@
 
 ## 贡献者
 
-感谢所有贡献者：[阳志平](yangzhiping.com/)、[钰博](muguangling.com)、朱小叶
+感谢所有贡献者：[阳志平](yangzhiping.com/)、[钰博](muguangling.com)、[朱小叶](https://github.com/yolandaris)
 
 ## 许可
 
