@@ -83,6 +83,7 @@
 - [SCI journal influence factor query_2022](https://sci.justscience.cn/) 
 
 #### Submission Skills Exchange Website
+- [Charlesworth Author Services](https://www.cwauthors.com/Researcher_Education) :Resources on all milestones of the research to publication journey.
 
 ### Thesis Download Source
 - Sci-Hub:[Sci-Hub](https://sci-hub.org.cn/)
@@ -100,7 +101,7 @@ For chinese edition,click [here](#README.zh-cn.md)
 
 ## Contributors
 
-Thanks to all the people who contribute:[阳志平](yangzhiping.com/)、[钰博](muguangling.com)、朱小叶
+Thanks to all the people who contribute:[阳志平](yangzhiping.com/)、[钰博](muguangling.com)、[朱小叶](https://github.com/yolandaris)
 
 ## License
 
