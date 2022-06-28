@@ -53,6 +53,13 @@
 - [心理与教育论文写作：方法. 规则与实践技巧（第2版（新编21世纪心理学系列教材）（豆瓣）](https://book.douban.com/subject/33375361/)（还不错的一本书）
 - [心理学英语论文写作指导：规范表达与简洁文风（社科通用）（豆瓣）](https://book.douban.com/subject/27147198/) ,[Scientific Writing for Psychology:Lessons in Clarity and Style (GoodReads)](https://www.goodreads.com/book/show/18765374-scientific-writing-for-psychology)
 - [心理学论文写作规范（第ニ版）（豆瓣）](https://book.douban.com/subject/26753290/)（中国心理学会官方指南，无趣，翻翻即可。）
+- 《心理学报的投稿要求》
+    - [《心理学报》参考文献著录格式（著者-出版年制）详细要求](https://github.com/OpenMindClub/awesome-scholarly-productivity/blob/main/files/psych-cite-formatting.pdf)
+	- [《心理学报》审稿指南](https://github.com/OpenMindClub/awesome-scholarly-productivity/blob/main/files/psych-reviewer-handbook.pdf)
+	- [《心理学报》“理论与史”论文自检报告](https://github.com/OpenMindClub/awesome-scholarly-productivity/blob/main/files/psych-theory-histroy-self-check-handbook.pdf)
+	- [元分析论文自检报告](https://github.com/OpenMindClub/awesome-scholarly-productivity/blob/main/files/psych-meta-analysis-self-check.pdf)
+	- [《心理学报》论文自检报告](https://github.com/OpenMindClub/awesome-scholarly-productivity/blob/main/files/psych-paper-self-check-report.pdf)
+	
 
 阳志平老师更多相关书单：
 
