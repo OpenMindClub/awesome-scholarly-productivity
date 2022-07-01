@@ -53,13 +53,7 @@
 - [心理与教育论文写作：方法. 规则与实践技巧（第2版（新编21世纪心理学系列教材）（豆瓣）](https://book.douban.com/subject/33375361/)（还不错的一本书）
 - [心理学英语论文写作指导：规范表达与简洁文风（社科通用）（豆瓣）](https://book.douban.com/subject/27147198/) ,[Scientific Writing for Psychology:Lessons in Clarity and Style (GoodReads)](https://www.goodreads.com/book/show/18765374-scientific-writing-for-psychology)
 - [心理学论文写作规范（第ニ版）（豆瓣）](https://book.douban.com/subject/26753290/)（中国心理学会官方指南，无趣，翻翻即可。）
-- 心理学报的投稿要求（重点看参考文献与审稿人指南。）
-    - [《心理学报》参考文献著录格式（著者-出版年制）详细要求](https://github.com/OpenMindClub/awesome-scholarly-productivity/blob/main/files/psych-cite-formatting.pdf)
-	- [《心理学报》审稿指南](https://github.com/OpenMindClub/awesome-scholarly-productivity/blob/main/files/psych-reviewer-handbook.pdf)
-	- [《心理学报》“理论与史”论文自检报告](https://github.com/OpenMindClub/awesome-scholarly-productivity/blob/main/files/psych-theory-histroy-self-check-handbook.pdf)
-	- [元分析论文自检报告](https://github.com/OpenMindClub/awesome-scholarly-productivity/blob/main/files/psych-meta-analysis-self-check.pdf)
-	- [《心理学报》论文自检报告](https://github.com/OpenMindClub/awesome-scholarly-productivity/blob/main/files/psych-paper-self-check-report.pdf)
-	
+
 
 阳志平老师更多相关书单：
 
@@ -112,6 +106,15 @@
 - [小木虫论坛﹣学术科研互动平台](http://muchong.com/bbs/)
 - [查尔斯沃斯学术资源库-研究人员咨询中心](https://www.cwauthors.com.cn/researcher_education)  该网站提供专业论文润色服务，同时有16个论文发表相关的文章专栏、系列免费讲座等资源；
 
+### 《心理学报》投稿要求
+- 心理学报的投稿要求（重点看参考文献与审稿人指南。）
+    - [《心理学报》参考文献著录格式（著者-出版年制）详细要求](https://github.com/OpenMindClub/awesome-scholarly-productivity/blob/main/files/psych-cite-formatting.pdf)
+	- [《心理学报》审稿指南](https://github.com/OpenMindClub/awesome-scholarly-productivity/blob/main/files/psych-reviewer-handbook.pdf)
+	- [《心理学报》“理论与史”论文自检报告](https://github.com/OpenMindClub/awesome-scholarly-productivity/blob/main/files/psych-theory-histroy-self-check-handbook.pdf)
+	- [元分析论文自检报告](https://github.com/OpenMindClub/awesome-scholarly-productivity/blob/main/files/psych-meta-analysis-self-check.pdf)
+	- [《心理学报》论文自检报告](https://github.com/OpenMindClub/awesome-scholarly-productivity/blob/main/files/psych-paper-self-check-report.pdf)
+	
+
 ##  论文下载资源
 - [Sci-hub](https://sci-hub.org.cn/)
 
@@ -123,6 +126,10 @@
 ## 文献管理工具
 
 - Zotero：[Zetero:Your personal research assistant](https://www.zotero.org/) 伪装成信息管理工具的知识创造神器。
+
+## 其他
+
+- [如何成为一名高效的博士生：《开启学术生涯的六个关键：来自国际顶刊编辑的实操经验》](https://mp.weixin.qq.com/s?__biz=MzU3NzI4MTAxNA==&mid=2247503343&idx=1&sn=b41a97964dfdf09ff67521ca58c3c183&chksm=fd058376ca720a608119d48d7c2f6e22123de48805f08ab5cfb842f9d3194bd0f8823e3e6583&mpshare=1&scene=1&srcid=0628rcCigKEkA8f5awPpkTpJ&sharer_sharetime=1656351672166&sharer_shareid=3d6545f1a2bc3cb138324a06a6219ef6&version=4.0.8.99121&platform=mac#rd)
 
 ## 加入我们
 

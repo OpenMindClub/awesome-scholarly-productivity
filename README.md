@@ -6,6 +6,9 @@
 
 <!--rehype:style=text-align: center;-->
 
+
+English | [简体中文](README.zh-cn.md)
+
 ## Table of Contents
 
 - [Table of Contents](#table-of-contents)
