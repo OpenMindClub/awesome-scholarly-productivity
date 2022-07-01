@@ -6,6 +6,8 @@
 
 <!--rehype:style=text-align: center;-->
 
+[英文](#README.md) | 简体中文
+
 ## 目录
 
 - [目录](#目录)
