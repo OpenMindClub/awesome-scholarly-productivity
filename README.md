@@ -104,7 +104,7 @@ For chinese edition,click [here](#README.zh-cn.md)
 
 ## Contributors
 
-Thanks to all the people who contribute:[阳志平](http://yangzhiping.com/)、[钰博](http://muguangling.com)、[朱小叶](https://github.com/yolandaris)
+Thanks to all the people who contribute:[阳志平](http://www.yangzhiping.com/)、[钰博](http://www.muguangling.com)、[朱小叶](https://github.com/yolandaris)
 
 ## License
 
