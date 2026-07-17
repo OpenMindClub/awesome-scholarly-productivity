@@ -96,6 +96,7 @@ English | [简体中文](README.zh-cn.md)
 
 ### Bibliographic Management Tool
 - Zotero：[Zetero：Your personal research assistant](https://www.zotero.org/) 
+- citecheck：[citecheck：Verify your bibliography's references against Crossref, OpenAlex and DOAJ](https://github.com/tobiasosDev/citecheck)
 
 ## Contribute
 
