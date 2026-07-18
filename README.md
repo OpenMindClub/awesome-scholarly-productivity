@@ -78,6 +78,7 @@ English | [简体中文](README.zh-cn.md)
 
 ### Literature Analysis 
 - CiteSpace:[CiteSpace: visualizing patterns and trends in scientific literature](http://cluster.cis.drexel.edu/~cchen/citespace/) 
+- ALMa:[ALMa: self-hosted paper discovery and feed engine that learns from your reading](https://github.com/costantinoai/alma-library-manager)
 
 ###  Paper Submission Skills
 #### Reference Books
