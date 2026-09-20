@@ -11,6 +11,8 @@ English | [简体中文](README.zh-cn.md)
 
 ## Table of Contents
 
+- [WakeMark](https://wakemark.app) - AI-organized X/Twitter bookmarks with chat/MCP search and email digests.
+
 - [Table of Contents](#table-of-contents)
    - [Paper Writing](#Paper-Writing)
         - [English Academic Paper Writing](#English-Academic-Paper-Writing)
