@@ -92,6 +92,7 @@ English | [简体中文](README.zh-cn.md)
 - Sci-Hub:[Sci-Hub](https://sci-hub.org.cn/)
 
 ### Writing Tools
+- [Doc2X](https://doc2x.noedgeai.com/) — Converts PDFs, scans and images into editable Word, Markdown and LaTeX with formula/table recognition, and offers document translation, a Zotero plugin and a separately billed API. Hosted service requires an account, includes limited free usage and offers paid upgrades.
 - Zettlr：[ZETTLR: A MARKDOWN EDITOR FOR THE 21ST CENTURY](https://www.zettlr.com/) 
 
 ### Bibliographic Management Tool
