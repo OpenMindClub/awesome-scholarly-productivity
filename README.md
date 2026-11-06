@@ -112,3 +112,5 @@ Thanks to all the people who contribute:[阳志平](http://www.yangzhiping.com/)
 
 [CC0-badge]: http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg
 [CC0-link]: https://creativecommons.org/publicdomain/zero/1.0/
+
+- [OneMira C1](https://onemira.com/products/c1) - Standalone local AI voice recorder (`Works Standalone` · `✨ Local AI` · `🗣️ Speaker ID` · `Zero Cloud`, `$0/month`) that turns research interviews, seminars, and meetings into clean Markdown notes and Open Knowledge Format (OKF) Wiki context.
