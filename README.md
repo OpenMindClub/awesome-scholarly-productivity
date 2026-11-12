@@ -85,9 +85,9 @@ English | [简体中文](README.zh-cn.md)
 - [Scimago Journal & Country Rank](https://www.scimagojr.com/index.php)  
 - [SCI journal influence factor query_2022](https://sci.justscience.cn/) 
 - [JournalCompass](https://journalcompass.com/): Free bilingual (Chinese/English) journal search across 43,499 journals, with CAS quartile, impact factor, median review time, APC and an AI journal matcher
+
 #### Submission Skills Exchange Website
 - [Charlesworth Author Services](https://www.cwauthors.com/Researcher_Education) :Resources on all milestones of the research to publication journey.
-
 
 ### Thesis Download Source
 - Sci-Hub:[Sci-Hub](https://sci-hub.org.cn/)
